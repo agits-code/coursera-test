@@ -1,0 +1,12 @@
+my project
+Go to root directory
+
+cd ~/
+
+Write the following code:
+
+sudo chown -R username /Users/username
+
+Where username is your system's username.
+
+
