@@ -1,0 +1,30 @@
+Index: module2-solution.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- module2-solution.css	(revision 32c84a701b434118aa62ffb9d746cc5d3d802fa0)
++++ module2-solution.css	(date 1585346504535)
+@@ -4,7 +4,7 @@
+ h1 {
+     margin: auto;
+     text-align:center;
+-    border: 10px solid coral;
++    border: 10px solid fuchsia;
+     width: 80%;
+     height: 150px;
+     background-color: antiquewhite;
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision 32c84a701b434118aa62ffb9d746cc5d3d802fa0)
++++ index.html	(date 1585346504541)
+@@ -11,5 +11,6 @@
+ <p>vedo se cambia qualcosa</p>
+ <h2>forse così?</h2>
+ <h6> oppure così ????</h6>
++<p> non so come fare</p>
+ </body>
+ </html>
