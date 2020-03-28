@@ -32,3 +32,8 @@ git status
 git add *
 git commit
 git push
+
+Ho modificato questo file su GitHub
+ 
+git pull
+
