@@ -1,6 +1,10 @@
 * {
     box-sizing: content-box;
 }
+ul {
+    color: cornflowerblue;
+    font-family: sans-serif;
+}
 /*
 h1 {
 

@@ -1,0 +1,31 @@
+diff --git a/index.html b/index.html
+index 6a1d8fd..aa9f903 100644
+--- a/index.html
++++ b/index.html
+@@ -30,7 +30,10 @@
+ 	  <li>You should be noticing things is this precise order, because this is an ordered list</li>
+   </ol>
+ <h2>Inline Elements</h2>
+-
++  <ul>
++      <li type="squre">elemento 1</li>
++      <li type="circle">elemento 2</li>
++  </ul>
+ <p><em>Sometimes</em>, you need to draw attention to a particular word or phrase.</p>
+ <p>Other times you need to <strong>strong</strong>ly emphatize the impotanze of a word or phrase.</p>
+ <p><em><strong>And sometimes you need to shout!</strong></em></p>
+diff --git a/module2-solution.css b/module2-solution.css
+index 9ee9c40..fbfbdff 100644
+--- a/module2-solution.css
++++ b/module2-solution.css
+@@ -1,6 +1,10 @@
+ * {
+     box-sizing: content-box;
+ }
++ul {
++    color: cornflowerblue;
++    font-family: sans-serif;
++}
+ /*
+ h1 {
+ 
