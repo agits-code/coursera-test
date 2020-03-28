@@ -27,6 +27,7 @@ adesso devo capire come creare ed aggiornare .patch file:
 
 git diff -u index.html > index.patch ----->Crea file patch x file index.html
 git diff -u index.html  module2-solution.css > prova_vc-4.patch
+git diff --no-prefix -u . >edit_content.diff
 
 git status
 git add *
