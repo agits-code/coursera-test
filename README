@@ -10,3 +10,13 @@ sudo chown -R username /Users/username
 Where username is your system's username.
 
 
+Since you want to use open as your $GIT_EDITOR you will need the following:
+
+-W  Causes open to wait until the applications it opens (or that were already open) have exited.  Use with the -n flag to allow open to function as an appropriate app for the $EDITOR environment variable.
+
+-n  Open a new instance of the application(s) even if one is already running.
+This will work for that:
+
+ git config --global --unset-all core.editor
+ git config --global --add core.editor "open -W -n"
+
