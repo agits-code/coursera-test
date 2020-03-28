@@ -4,9 +4,19 @@
 ul {
     color: cornflowerblue;
     font-family: sans-serif;
-}
-li {
     list-style-type: square;
+}
+ol {
+    list-style-type: upper-roman;
+}
+ul.row {
+    list-style-type: none;
+    border: 1px solid darkgray;
+    background-color: floralwhite;
+}
+ul.row li{
+    border: 2px solid black;
+    width: 50%;
 }
 /*
 h1 {
