@@ -20,3 +20,6 @@ This will work for that:
  git config --global --unset-all core.editor
  git config --global --add core.editor "open -W -n"
 
+1^--> PhpSorm commit
+2^--> git push
+
