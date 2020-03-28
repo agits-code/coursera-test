@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/agits-code/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+devo scoprire come funziona EDITOR GITHUB
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
