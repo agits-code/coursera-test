@@ -1,6 +1,16 @@
 * {
     box-sizing: content-box;
 }
+h1, p {
+ background-color: lightgray;
+}
+em, strong {
+    background-color: lightblue;
+}
+footer {
+    float: top;
+}
+
 ul {
     color: cornflowerblue;
     font-family: sans-serif;
@@ -20,7 +30,7 @@ ul.row li {
     border: 2px solid black;
     width: 100px;
 }
-
+/* vers1
 h1 {
 
 
@@ -39,6 +49,8 @@ p {
     font-family: Helvetica;
     color: darkslateblue;
 }
+
+ */
 
 /* simple responsive framework */
 .row {
