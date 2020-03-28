@@ -1,7 +1,10 @@
 * {
     box-sizing: content-box;
 }
+/*
 h1 {
+
+
     margin: auto;
     text-align:center;
     border: 10px solid fuchsia;
@@ -20,6 +23,7 @@ p {
     font-family: Helvetica;
     color: white;
 }
+*/
 /* simple responsive framework */
 .row {
     width: 100%;
