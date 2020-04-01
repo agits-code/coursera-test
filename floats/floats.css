@@ -40,8 +40,9 @@
     float: left;
     width: 31%;
     margin: 20px 1.15%;
-    height: auto;
+    height: 100px;
     background-color: #b2d6ff;
+    overflow: scroll;
 }
 .article-images {
     float: left;
@@ -66,6 +67,7 @@ p {
 }
 
 .comment {
+
     margin: 10px;
-    overflow: hidden /*This is important - non girare testo intorno all'immagine*/
+    overflow: hidden ;/*This is important - non girare testo intorno all'immagine*/
 }
